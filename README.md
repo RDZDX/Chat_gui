@@ -1,4 +1,5 @@
 # Chat_gui
+- Chat gui code sample for MRE platform mobile phone (including Nokia S30+)
 
 ## File
 - [VxpMic.vxp](https://rdzdx.github.io/Chat_gui/chat_gui.vxp) 
